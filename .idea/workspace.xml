@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c45146b-70ec-4bf9-808a-3ed28d5305ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/jdbcAndHibernate.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" afterDir="false" />
-    </list>
+    <list default="true" id="0c45146b-70ec-4bf9-808a-3ed28d5305ba" name="Changes" comment="LMS7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,8 +99,16 @@
       <workItem from="1642773780327" duration="695000" />
       <workItem from="1642774553837" duration="2092000" />
       <workItem from="1642913762797" duration="6713000" />
-      <workItem from="1642921276172" duration="1106000" />
+      <workItem from="1642921276172" duration="1462000" />
     </task>
+    <task id="LOCAL-00001" summary="LMS7">
+      <created>1642922734907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642922734907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LMS7" />
+    <option name="LAST_COMMIT_MESSAGE" value="LMS7" />
   </component>
 </project>
