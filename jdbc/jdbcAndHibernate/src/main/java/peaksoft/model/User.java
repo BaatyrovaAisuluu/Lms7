@@ -25,6 +25,15 @@ public class User {
         this.age = age;
     }
 
+    @Override
+    public String toString() {
+        return
+                "\nid        | " + id +'\n'+
+                "name      | " + name + '\n' +
+                "lastName  | " + lastName + '\n' +
+                "age       | " + age ;
+    }
+
     public Long getId() {
         return id;
     }
