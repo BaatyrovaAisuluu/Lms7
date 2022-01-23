@@ -25,6 +25,7 @@ public class UserDaoJdbcImpl implements UserDao {
                     "lastName VARCHAR NOT NULL, " +
                     "age integer not null)";
             statement.executeUpdate(SQL);
+            System.out.println();
             System.out.println(" Дата базага барды ");
             System.out.println();
 

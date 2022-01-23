@@ -20,6 +20,7 @@ public class Main {
             System.out.println();
             userService1.print();
             int a = sc.nextInt();
+            System.out.println();
             if (a <= 0 || a >6) {
                 throw new Exception("Мындай тандоо жок");
             }

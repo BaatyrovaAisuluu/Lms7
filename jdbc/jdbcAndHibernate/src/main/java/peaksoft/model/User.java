@@ -31,7 +31,7 @@ public class User {
                 "\nid        | " + id +'\n'+
                 "name      | " + name + '\n' +
                 "lastName  | " + lastName + '\n' +
-                "age       | " + age ;
+                "age       | " + age +"";
     }
 
     public Long getId() {

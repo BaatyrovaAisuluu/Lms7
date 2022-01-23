@@ -42,6 +42,7 @@ public class UserServiceImpl implements UserService {
         System.out.println(" 4 id менен очурунуз");
         System.out.println(" 5 Таблицанын ичин тазалоо");
         System.out.println(" 6 Таблицаны очуруу");
+        System.out.println();
 
     }
 }

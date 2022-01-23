@@ -18,6 +18,7 @@ public class Util {
             System.out.println("Иштеди");
         } catch (SQLException e) {
             e.printStackTrace();
+            System.out.println();
         }
         return connection;
 
