@@ -63,9 +63,9 @@ public class Main {
 
 
       UserDao userDao=new UserDaoHibernateImpl();
-      //userDao.createUsersTable();
+     // userDao.createUsersTable();
        // userDao.dropUsersTable();
-        userDao.saveUser("rahim","kurbanov", (byte) 23);
+       // userDao.saveUser("rahim","kurbanov", (byte) 23);
 
     }
 }

@@ -3,7 +3,7 @@
   <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.32">
     <root id="1">
       <DateStyle>dmy</DateStyle>
-      <IntrospectionStateNumber>4194</IntrospectionStateNumber>
+      <IntrospectionStateNumber>4557</IntrospectionStateNumber>
       <ServerVersion>12.9</ServerVersion>
       <StartupTime>1643001752</StartupTime>
       <TimeZones>true ACDT
@@ -802,13 +802,13 @@ false posixrules
 13018||10|C|G
 13018||-9223372036854775808|U|G
 13018||10|U|G</Grants>
-      <IntrospectionStateNumber>4194</IntrospectionStateNumber>
+      <IntrospectionStateNumber>4558</IntrospectionStateNumber>
       <ObjectId>13318</ObjectId>
       <Relations>sequence|table|92488|92490|1
 sequence|table|73765|73767|1
 sequence|table|73787|73789|1
 sequence|table|73820|73822|1
-sequence|table|92587|92589|1
+sequence|table|93585|93587|1
 sequence|table|91983|91985|1
 sequence|table|91994|91996|1
 </Relations>
@@ -4036,7 +4036,7 @@ sequence|table|91994|91996|1
     <schema id="246" parent="2" name="public">
       <Comment>standard public schema</Comment>
       <Current>1</Current>
-      <IntrospectionStateNumber>4194</IntrospectionStateNumber>
+      <IntrospectionStateNumber>4558</IntrospectionStateNumber>
       <ObjectId>2200</ObjectId>
       <StateNumber>276</StateNumber>
       <OwnerName>postgres</OwnerName>
@@ -4073,8 +4073,8 @@ sequence|table|91994|91996|1
     </sequence>
     <sequence id="252" parent="246" name="users_id_seq">
       <DataType>bigint|0s</DataType>
-      <ObjectId>92587</ObjectId>
-      <StateNumber>4193</StateNumber>
+      <ObjectId>93585</ObjectId>
+      <StateNumber>4555</StateNumber>
       <OwnerName>postgres</OwnerName>
     </sequence>
     <sequence id="253" parent="246" name="workers_id_seq">
@@ -4144,8 +4144,8 @@ sequence|table|91994|91996|1
       <OwnerName>postgres</OwnerName>
     </table>
     <table id="264" parent="246" name="users">
-      <ObjectId>92589</ObjectId>
-      <StateNumber>4193</StateNumber>
+      <ObjectId>93587</ObjectId>
+      <StateNumber>4555</StateNumber>
       <AccessMethodId>2</AccessMethodId>
       <OwnerName>postgres</OwnerName>
     </table>
@@ -4740,7 +4740,52 @@ sequence|table|91994|91996|1
       <StateNumber>1355</StateNumber>
       <UnderlyingIndexId>65730</UnderlyingIndexId>
     </key>
-    <column id="341" parent="265" name="id">
+    <column id="341" parent="264" name="id">
+      <DataType>bigint|0s</DataType>
+      <DefaultExpression>nextval(&apos;users_id_seq&apos;::regclass)</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StateNumber>4555</StateNumber>
+      <TypeId>20</TypeId>
+    </column>
+    <column id="342" parent="264" name="age">
+      <DataType>smallint|0s</DataType>
+      <Position>2</Position>
+      <StateNumber>4555</StateNumber>
+      <TypeId>21</TypeId>
+    </column>
+    <column id="343" parent="264" name="lastname">
+      <DataType>varchar(255)|0s</DataType>
+      <Position>3</Position>
+      <StateNumber>4555</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="344" parent="264" name="name">
+      <DataType>varchar(255)|0s</DataType>
+      <Position>4</Position>
+      <StateNumber>4555</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="345" parent="264" name="users_pkey">
+      <ClassIds>3124</ClassIds>
+      <ColNames>id</ColNames>
+      <CollationIds>0</CollationIds>
+      <NameSurrogate>1</NameSurrogate>
+      <ObjectId>93594</ObjectId>
+      <Primary>1</Primary>
+      <StateNumber>4555</StateNumber>
+      <Unique>1</Unique>
+      <AccessMethodId>403</AccessMethodId>
+    </index>
+    <key id="346" parent="264" name="users_pkey">
+      <ColNames>id</ColNames>
+      <NameSurrogate>1</NameSurrogate>
+      <ObjectId>93595</ObjectId>
+      <Primary>1</Primary>
+      <StateNumber>4555</StateNumber>
+      <UnderlyingIndexId>93594</UnderlyingIndexId>
+    </key>
+    <column id="347" parent="265" name="id">
       <DataType>integer|0s</DataType>
       <DefaultExpression>nextval(&apos;workers_id_seq&apos;::regclass)</DefaultExpression>
       <NotNull>1</NotNull>
@@ -4748,26 +4793,26 @@ sequence|table|91994|91996|1
       <StateNumber>4143</StateNumber>
       <TypeId>23</TypeId>
     </column>
-    <column id="342" parent="265" name="age">
+    <column id="348" parent="265" name="age">
       <DataType>integer|0s</DataType>
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StateNumber>4143</StateNumber>
       <TypeId>23</TypeId>
     </column>
-    <column id="343" parent="265" name="lastname">
+    <column id="349" parent="265" name="lastname">
       <DataType>varchar(255)|0s</DataType>
       <Position>3</Position>
       <StateNumber>4143</StateNumber>
       <TypeId>1043</TypeId>
     </column>
-    <column id="344" parent="265" name="name">
+    <column id="350" parent="265" name="name">
       <DataType>varchar(255)|0s</DataType>
       <Position>4</Position>
       <StateNumber>4143</StateNumber>
       <TypeId>1043</TypeId>
     </column>
-    <index id="345" parent="265" name="workers_pkey">
+    <index id="351" parent="265" name="workers_pkey">
       <ClassIds>1978</ClassIds>
       <ColNames>id</ColNames>
       <CollationIds>0</CollationIds>
@@ -4778,7 +4823,7 @@ sequence|table|91994|91996|1
       <Unique>1</Unique>
       <AccessMethodId>403</AccessMethodId>
     </index>
-    <key id="346" parent="265" name="workers_pkey">
+    <key id="352" parent="265" name="workers_pkey">
       <ColNames>id</ColNames>
       <NameSurrogate>1</NameSurrogate>
       <ObjectId>92498</ObjectId>
