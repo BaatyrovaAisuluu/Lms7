@@ -4,11 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c45146b-70ec-4bf9-808a-3ed28d5305ba" name="Changes" comment="LMSWork7" />
+    <list default="true" id="0c45146b-70ec-4bf9-808a-3ed28d5305ba" name="Changes" comment="LMSWork7">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Exception/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jdbcAndHibernate_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/jdbcAndHibernate_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_10_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_3_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/jdbcAndHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/jdbcAndHibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoHibernateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoHibernateImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoJdbcImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoJdbcImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/util/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/test-classes/peaksoft/UserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/test-classes/peaksoft/UserServiceTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +88,7 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -39,19 +96,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="JUnit.UserServiceTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="peaksoft.Main" />
-      <module name="jdbcAndHibernate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="peaksoft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbcAndHibernate" />
       <extension name="coverage">
@@ -67,10 +111,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserServiceTest.cleanUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbcAndHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaksoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peaksoft" />
+      <option name="MAIN_CLASS_NAME" value="peaksoft.UserServiceTest" />
+      <option name="METHOD_NAME" value="cleanUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.createUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbcAndHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaksoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peaksoft" />
+      <option name="MAIN_CLASS_NAME" value="peaksoft.UserServiceTest" />
+      <option name="METHOD_NAME" value="createUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.getAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbcAndHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaksoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peaksoft" />
+      <option name="MAIN_CLASS_NAME" value="peaksoft.UserServiceTest" />
+      <option name="METHOD_NAME" value="getAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbcAndHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peaksoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peaksoft" />
+      <option name="MAIN_CLASS_NAME" value="peaksoft.UserServiceTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UserServiceTest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.UserServiceTest.createUsersTable" />
+        <item itemvalue="JUnit.UserServiceTest.saveUser" />
+        <item itemvalue="JUnit.UserServiceTest.cleanUsersTable" />
+        <item itemvalue="JUnit.UserServiceTest.getAllUsers" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +210,34 @@
       <workItem from="1642773780327" duration="695000" />
       <workItem from="1642774553837" duration="2092000" />
       <workItem from="1642913762797" duration="6713000" />
-      <workItem from="1642921276172" duration="2583000" />
+      <workItem from="1642921276172" duration="4217000" />
+      <workItem from="1642928018820" duration="9000" />
+      <workItem from="1642943998303" duration="136000" />
+      <workItem from="1642948507103" duration="1195000" />
+      <workItem from="1643002180877" duration="186000" />
+      <workItem from="1643010903789" duration="31000" />
+      <workItem from="1643011461763" duration="398000" />
+      <workItem from="1643011891249" duration="6457000" />
+      <workItem from="1643029450586" duration="600000" />
+      <workItem from="1643030099068" duration="173000" />
+      <workItem from="1643030312067" duration="171000" />
+      <workItem from="1643030515021" duration="580000" />
+      <workItem from="1643086621196" duration="1167000" />
+      <workItem from="1643088263775" duration="8410000" />
+      <workItem from="1643110222008" duration="66000" />
+      <workItem from="1643110570604" duration="17000" />
+      <workItem from="1643112200749" duration="29000" />
+      <workItem from="1643112466550" duration="35000" />
+      <workItem from="1643113483358" duration="15000" />
+      <workItem from="1643113864754" duration="88000" />
+      <workItem from="1643114881418" duration="27000" />
+      <workItem from="1643189858635" duration="2588000" />
+      <workItem from="1643193573815" duration="515000" />
+      <workItem from="1643194255220" duration="15491000" />
+      <workItem from="1643260108533" duration="3966000" />
+      <workItem from="1643273970539" duration="17000" />
+      <workItem from="1643290911288" duration="456000" />
+      <workItem from="1643291527194" duration="2712000" />
     </task>
     <task id="LOCAL-00001" summary="LMS7">
       <created>1642922734907</created>
@@ -129,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642923746193</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="LMSWork7">
+      <created>1642923946200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642923946200</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,5 +295,10 @@
     <MESSAGE value="LMS7" />
     <MESSAGE value="LMSWork7" />
     <option name="LAST_COMMIT_MESSAGE" value="LMSWork7" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JDBCAndHibernateTask1$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1643200825644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>peaksoft.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -3,7 +3,6 @@ package peaksoft.dao;
 import peaksoft.model.User;
 import peaksoft.util.Util;
 
-import java.security.SecureRandom;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -77,7 +76,7 @@ public class UserDaoJdbcImpl implements UserDao {
             System.out.println("Очурулду");
             System.out.println();
         } catch (SQLException e) {
-            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
     }
 ////////////////////////////////////////////////////////////////////////////////////
