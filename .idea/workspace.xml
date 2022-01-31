@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c45146b-70ec-4bf9-808a-3ed28d5305ba" name="Changes" comment="LMSWork7">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b96b1df5-aa6a-43f6-ad3f-6b964bf08def/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoHibernateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/util/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoHibernateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/dao/UserDaoHibernateImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/target/classes/peaksoft/util/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/jdbcAndHibernate/src/main/java/peaksoft/dao/UserDaoJdbcImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +194,17 @@
       <workItem from="1643346453213" duration="612000" />
       <workItem from="1643348437768" duration="142000" />
       <workItem from="1643349692497" duration="285000" />
-      <workItem from="1643353782022" duration="1789000" />
+      <workItem from="1643353782022" duration="2051000" />
+      <workItem from="1643363416689" duration="38000" />
+      <workItem from="1643375301327" duration="1353000" />
+      <workItem from="1643377317406" duration="14000" />
+      <workItem from="1643378880865" duration="48000" />
+      <workItem from="1643378979509" duration="16000" />
+      <workItem from="1643521850545" duration="714000" />
+      <workItem from="1643523096694" duration="1336000" />
+      <workItem from="1643530541609" duration="246000" />
+      <workItem from="1643540641486" duration="617000" />
+      <workItem from="1643620498969" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="LMS7">
       <created>1642922734907</created>
@@ -243,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643346717969</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="LMSWork7">
+      <created>1643355728260</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643355728260</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

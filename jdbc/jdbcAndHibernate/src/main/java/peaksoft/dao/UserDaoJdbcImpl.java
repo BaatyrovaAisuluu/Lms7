@@ -3,6 +3,7 @@ package peaksoft.dao;
 import peaksoft.model.User;
 import peaksoft.util.Util;
 
+import javax.management.Query;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -37,8 +38,9 @@ public class UserDaoJdbcImpl implements UserDao {
         public void dropUsersTable() {
         try(Connection conn=Util.connection()) {
               Statement statement=conn.createStatement();
-            String SQL="Drop table users" ;
+            String SQL="drop table if exists users" ;
             statement.executeUpdate(SQL);
+
             System.out.println();
             System.out.println(" Таблица очурулду ");
             System.out.println();
